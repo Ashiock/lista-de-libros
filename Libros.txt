@@ -1,6 +1,6 @@
 Mis libros favoritos:
 
-1. El Conde de Montecristo
-2. Cien años de Soledad
-3. Platero y Yo
-4. Anna Karenina
+1. El Conde de Montecristo - Alexandre Dumas
+2. Cien años de Soledad - Gabriel García Marquez
+3. Platero y Yo - Juan Ramón Jimenez
+4. Anna Karenina - Leo Tolstoi
